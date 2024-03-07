@@ -5,9 +5,9 @@ export const styles = StyleSheet.create({
     ball: {
         width: 30,
         height: 30,
-        backgroundColor: colors.black,
-        borderRadius: 15,
-        borderWidth: 1,
-        borderColor: colors.gray
+        backgroundColor: colors.red,
+        borderRadius: 10,
+        borderWidth: 2,
+        borderColor: colors.grey,
     }
 })
